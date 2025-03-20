@@ -433,10 +433,6 @@ flex: 1 1 40rem;
     color: var(--pink);
     text-decoration: underline;
 }
-
-.footer .box-container .box img{
-    margin-top: 1rem;
-}
 .footer .credit{
     text-align: center;
     padding: 1.5rem;
